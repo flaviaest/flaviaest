@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Flávia!
 
-Sou apaixonada por **tecnologia**, **arte**, **natureza** e **impacto social**!  
+Sou apaixonada por **tecnologia**, **arte**, **natureza** e **impacto social**! 🎀
 Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** 💻
 
 ---
@@ -13,8 +13,8 @@ Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** �
 
 🔗 [Ver projeto](https://github.com/flaviaest/quiz_biodiversidade,git)  
 🛠️ Tecnologias:  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
@@ -26,11 +26,11 @@ Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** �
 
 🔗 [Ver projeto](https://github.com/flaviaest/startupPNL.git)  
 🛠️ Tecnologias:  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
