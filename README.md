@@ -34,10 +34,6 @@ Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** �
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
----
 
-## ✨ Em breve aqui:
-- 💧 Sistema de Irrigação Automatizada com Arduino
-- 🧵 Projeto *Fazendo Arte* 
 
 ---
