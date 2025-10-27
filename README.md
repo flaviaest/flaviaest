@@ -1,12 +1,12 @@
 # 👋 Oi, eu sou a Flávia!
 
-Sou apaixonada por **tecnologia**, **arte**, **natureza** e **impacto social**! 🎀 
+Sou apaixonada por **tecnologia** e **dados**! 
 
 Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** 💻
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 ### 🧠 Quiz: Biodiversidade de Nova Russas  
 🎯 Jogo educativo feito com HTML, CSS e JavaScript que valoriza a fauna e flora da minha cidade.  
