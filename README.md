@@ -1,6 +1,4 @@
-# 👋 Oi, eu sou a Flávia!
-
-Sou apaixonada por **tecnologia** e **dados**! 
+# 👋 Oi, eu sou a Flávia! 
 
 Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas** 💻
 
